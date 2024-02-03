@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dharm147
-- 👀 I’m interested in learning AI 
+- 👀 I’m interested in learning everything
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
